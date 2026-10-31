@@ -1,0 +1,14 @@
+# Core training / evaluation
+timm            # DeiT-Small
+numpy
+scipy           # MPIIFaceGaze calibration files are .mat
+pandas
+matplotlib
+tensorboard
+tqdm
+pyyaml          # experiment configs
+
+# Live webcam tracker (laptop only)
+opencv-python
+mediapipe
+pyautogui       # OS input control, later phase
